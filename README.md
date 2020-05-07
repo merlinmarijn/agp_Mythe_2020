@@ -1,11 +1,11 @@
 ## [titel van jullie game]
-Project team:[jullie namen]
+Project team:[Marijn de steur, Thijs van Slooten, Noa van der Laak, Oufura Alwart, Thangmo Wonganan]
 
 Platform:
-[jullie platfom]
+[PC]
 
 ### Korte omschrijving van de game
-...
+Atlantis is on the point of sinking into the ocean, quickly solve puzzles to build a boat and attempt to escape atlantis before its demise
 
 ---
 #### Producten Werkproces 1
