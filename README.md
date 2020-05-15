@@ -1,4 +1,4 @@
-## [titel van jullie game]
+## [Escape Atlantis]
 Project team:[Marijn de steur, Thijs van Slooten, Noa van der Laak, Oufura Alwart, Thangmo Wonganan]
 
 Platform:
