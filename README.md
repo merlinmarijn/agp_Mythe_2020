@@ -37,7 +37,7 @@ Atlantis is on the point of sinking into the ocean, quickly solve puzzles to bui
 |<img width=500/>|<img width=300/>|
 
    [Backlog]: <https://trello.com/b/KvwBdhYI/mythe-2020>
-   [Logboek]: <https://github.com/merlinmarijn/agp_Mythe_2020/blob/master/Logboek%20Mythe%202020%20Team%2011.docx>
+   [Logboek]: <https://github.com/merlinmarijn/agp_Mythe_2020/blob/master/Logboek%20Mythe%202020%20Team%2011.pdf>
    [GameDesignDoc]: <https://github.com/merlinmarijn/agp_Mythe_2020/blob/master/One%20Page%20Game%20Concept%20Document%20Mythe.docx>
    [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
    [ReviewVerslagen]: <https://github.com/merlinmarijn/agp_Mythe_2020/blob/master/Sprint%20review%20verslagen.docx>
